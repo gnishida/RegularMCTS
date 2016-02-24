@@ -1,0 +1,1 @@
+PATH=$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)%3b..\glew%3b..\opencv%3b$(CGAL_DIR)\bin%3b$(CGAL_DIR)\auxiliary\gmp\lib%3b$(BOOST_LIBRARYDIR)
